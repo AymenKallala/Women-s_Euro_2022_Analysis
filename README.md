@@ -12,3 +12,4 @@ A few weeks after England won the 2022 Women's Euro, StatsBomb released open dat
 ## Some results
 
 <img src="heatmap.png" width="425"/> <img src="shotsmap.png" width="425"/> 
+<img src="Walsh_passmap.png" width="850"/>
