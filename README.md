@@ -11,4 +11,4 @@ A few weeks after England won the 2022 Women's Euro, StatsBomb released open dat
 
 ## Some results
 
-![alt text](heatmap.jpg "heatmap")
+![](heatmap.jpg "heatmap") ![](shotsmap.jpg "shotsmap")
